@@ -10,4 +10,4 @@ Fedora-Tools is my collection of scripts for Fedora Linux that automate tedious 
 These scripts are tested on Fedora 42 and designed to work out of the box without manual command-line typing.
 
 GitHub Profile: https://github.com/XsMagical
-Team Nocturnal: https://github.com/Team-Nocturnal
+Team Nocturnal: https://github.com/TeamNocturnal
